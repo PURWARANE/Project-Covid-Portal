@@ -1,0 +1,36 @@
+body{
+	overflow: hidden;
+	background-image: url(image2.jpg);
+}
+.caption{
+    color: aqua;
+    font-weight: bold;
+    font-size: 30px;
+    font-variant: small-caps;
+    margin-top: 10px;
+    text-decoration: solid;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table, th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: -15;
+    margin-right: -15;
+    color: aqua;
+    
+}
+
+th{
+    text-align: center;
+}
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    cursor: pointer;
+    font-size: 20px;
+  }
